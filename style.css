@@ -1,0 +1,27 @@
+body {
+    background-color: #00d8d8;
+}
+
+.col-8 {
+    width: 66.666667%;
+}
+
+.offset-2 {
+    margin-left: 16.666667%;
+}
+
+.my-5 {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.card {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.card-body {
+    padding: 1.25rem;
+}
