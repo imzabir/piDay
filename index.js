@@ -109,4 +109,4 @@
     console.log(chart)
     }
 }
-  setInterval(main, 500)
+  setInterval(main, 1000)
